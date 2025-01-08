@@ -17,12 +17,17 @@
 - Upload program code from this repository
 - assemble the sensor components according to the guidelines in the documentation
 
+
 # Integrate BLYNK and sencor :
 - open BLYNK in chrome
 - add this token on the code :
+  
+  ```cpp
+#define BLYNK_AUTH_TOKEN "sgXUoCD1HQqAva_g_Tc-6i53dm02byUE"
+	```
+ -connect ESP-32 with wifi
 
   
-
 
 # lampiran dokumentasi :
 ![dokumentasi projek] (https://github.com/Vanss3375/IoT-Smart-Lock/tree/main/dokumentasi%20project)
