@@ -23,7 +23,7 @@
 - add this token on the code :
   
   ```cpp
-#define BLYNK_AUTH_TOKEN "sgXUoCD1HQqAva_g_Tc-6i53dm02byUE"
+	#define BLYNK_AUTH_TOKEN "sgXUoCD1HQqAva_g_Tc-6i53dm02byUE"
 	```
  -connect ESP-32 with wifi
 
