@@ -30,4 +30,7 @@
   
 
 # lampiran dokumentasi :
+![](https://github.com/Vanss3375/IoT-Smart-Lock/blob/main/dokumentasi%20project/IMG_20250106_182124.jpg)
+![](https://github.com/Vanss3375/IoT-Smart-Lock/blob/main/dokumentasi%20project/Screenshot_2025-01-06-18-31-07-519_cloud.blynk.jpg)
+
 ![dokumentasi projek] (https://github.com/Vanss3375/IoT-Smart-Lock/tree/main/dokumentasi%20project)
